@@ -89,6 +89,6 @@ public class Main {
         System.out.println("num1 = " + num1);  // Prints 2
 
         int result2 = ++num1 + num2--;  // Increment num1, use it, use num2, then decrement num2
-        System.out.println("result2 = " + result2);  // Prints 9
+        System.out.println("result2 = " + result2);  // Prints number 9
     }
 }
