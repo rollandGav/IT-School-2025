@@ -2,6 +2,7 @@ package session_5_java_flow_control;
 
 public class FlowControl {
     public static void main(String[] args) {
+
         printNumberWhileDo(5);
         printNumberDoWhile(1);
         printNumbersFor(10);
